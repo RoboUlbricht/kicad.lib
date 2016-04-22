@@ -35,6 +35,9 @@ Temperature sensor.
 ### DS18B20
 Temperature sensor.
 
+### Electret Microphone
+Electret condenser microphone.
+
 ### ISP
 ISP connector.
 
