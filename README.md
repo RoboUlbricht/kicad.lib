@@ -15,3 +15,38 @@ Small cheap Arduino.
 Rev. 3.
 
 ![](img/arduino_uno_kicad.png?raw=true)
+
+### ATtiny85
+Microcontroller from Atmel.
+
+![](img/attiny85_kicad.png?raw=true)
+
+### CD4505BE
+Logic level shifter.
+
+![](img/cd4505be_kicad.png?raw=true)
+
+### ISP
+ISP connector.
+
+![](img/isp_kicad.png?raw=true)
+
+### LCD 16x02
+LCD display.
+
+![](img/lcd16x02_kicad.png?raw=true)
+
+### Nokia 5110
+LCD display.
+
+![](img/nokia5110_kicad.png?raw=true)
+
+### SWD
+SWD connector.
+
+![](img/swd_kicad.png?raw=true)
+
+### TSOP4838
+IR receiver.
+
+![](img/tsop4838_kicad.png?raw=true)
