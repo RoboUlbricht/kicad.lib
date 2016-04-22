@@ -26,6 +26,15 @@ Logic level shifter.
 
 ![](img/cd4505be_kicad.png?raw=true)
 
+### DFPlayer Mini
+MP3 player.
+
+### DHT11
+Temperature sensor.
+
+### DS18B20
+Temperature sensor.
+
 ### ISP
 ISP connector.
 
@@ -35,6 +44,12 @@ ISP connector.
 LCD display.
 
 ![](img/lcd16x02_kicad.png?raw=true)
+
+### LED RCGB
+RGB LED with common cathode.
+
+### NeoPixel Stick
+WS2812 8x 5050 RGB LED with integrated drivers.
 
 ### Nokia 5110
 LCD display.
