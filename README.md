@@ -76,6 +76,11 @@ SWD connector.
 
 ![](img/swd_kicad.png?raw=true)
 
+### TFT SPI 1.44 128x128 ILI9163
+LCD display.
+
+![](img/tft_spi_144_128x128_ili9163_kicad.png?raw=true)
+
 ### TSOP4838
 IR receiver.
 
