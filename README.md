@@ -6,6 +6,11 @@ Logic level shifter.
 
 ![](img/74hc4050_kicad.png?raw=true)
 
+### 78L33
+Linear voltage regulator.
+
+![](img/78l33_kicad.png?raw=true)
+
 ### Arduino Pro Mini
 Small cheap Arduino.
 
