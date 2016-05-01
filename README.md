@@ -11,6 +11,11 @@ Linear voltage regulator.
 
 ![](img/78l33_kicad.png?raw=true)
 
+### AMS1117 3.3V Module
+Linear voltage regulator.
+
+![](img/ams1117_33_module_kicad.png?raw=true)
+
 ### Arduino Pro Mini
 Small cheap Arduino.
 
@@ -90,3 +95,8 @@ LCD display.
 IR receiver.
 
 ![](img/tsop4838_kicad.png?raw=true)
+
+### TTP223 Touch 1 Module
+Touch button.
+
+![](img/ttp223_touch1_module_kicad.png?raw=true)
