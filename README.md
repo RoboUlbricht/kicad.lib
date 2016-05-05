@@ -81,6 +81,11 @@ LCD display.
 
 ![](img/nokia5110_kicad.png?raw=true)
 
+### SW-18020P
+Vibration sensor.
+
+![](img/sw_18020p_kicad.png?raw=true)
+
 ### SWD
 SWD connector.
 
