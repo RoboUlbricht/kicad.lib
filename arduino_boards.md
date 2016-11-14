@@ -13,3 +13,5 @@ Rev. 3.
 
 ### MKR1000
 32bit WiFi
+
+![](img/mkr1000_kicad.png?raw=true)
