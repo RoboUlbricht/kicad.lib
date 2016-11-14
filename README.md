@@ -19,7 +19,7 @@ Linear voltage regulator.
 ### Arduino Boards
 Few Arduino boards.
 
-[](arduino_boards.md)
+[Arduino boards](arduino_boards.md)
 
 ### ATtiny85
 Microcontroller from Atmel.
