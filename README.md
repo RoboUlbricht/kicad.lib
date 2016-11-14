@@ -16,15 +16,10 @@ Linear voltage regulator.
 
 ![](img/ams1117_33_module_kicad.png?raw=true)
 
-### Arduino Pro Mini
-Small cheap Arduino.
+### Arduino Boards
+Few Arduino boards.
 
-![](img/arduino_pro_mini_kicad.png?raw=true)
-
-### Arduino Uno
-Rev. 3.
-
-![](img/arduino_uno_kicad.png?raw=true)
+[](arduino_boards.md)
 
 ### ATtiny85
 Microcontroller from Atmel.
