@@ -1,5 +1,5 @@
-# kicad.lib
-Arduino Kicad Library
+# Arduino Boards
+Few Arduino boards.
 
 ### Arduino Pro Mini
 Small cheap Arduino.
