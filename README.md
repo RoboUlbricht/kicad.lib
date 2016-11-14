@@ -41,6 +41,11 @@ Temperature sensor.
 
 ![](img/dht11_kicad.png?raw=true)
 
+### Displays
+Few displays.
+
+[Displays](display.md)
+
 ### DS18B20
 Temperature sensor.
 
@@ -56,11 +61,6 @@ ISP connector.
 
 ![](img/isp_kicad.png?raw=true)
 
-### LCD 16x02
-LCD display.
-
-![](img/lcd16x02_kicad.png?raw=true)
-
 ### LED RCGB
 RGB LED with common cathode.
 
@@ -71,11 +71,6 @@ WS2812 8x 5050 RGB LED with integrated drivers.
 
 ![](img/neopixel_stick_kicad.png?raw=true)
 
-### Nokia 5110
-LCD display.
-
-![](img/nokia5110_kicad.png?raw=true)
-
 ### SW-18020P
 Vibration sensor.
 
@@ -85,11 +80,6 @@ Vibration sensor.
 SWD connector.
 
 ![](img/swd_kicad.png?raw=true)
-
-### TFT SPI 1.44 128x128 ILI9163
-LCD display.
-
-![](img/tft_spi_144_128x128_ili9163_kicad.png?raw=true)
 
 ### TSOP4838
 IR receiver.
