@@ -15,3 +15,8 @@ LCD display.
 LCD display.
 
 ![](img/tft_spi_144_128x128_ili9163_kicad.png?raw=true)
+
+### TM1637
+4x7 segment display.
+
+![](img/tm1637_kicad.png?raw=true)
