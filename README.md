@@ -71,6 +71,11 @@ WS2812 8x 5050 RGB LED with integrated drivers.
 
 ![](img/neopixel_stick_kicad.png?raw=true)
 
+### NeoPixel Ring
+WS2812 12x (or 16 or 24) 5050 RGB LED with integrated drivers.
+
+![](img/neopixel_ring_kicad.png?raw=true)
+
 ### SW-18020P
 Vibration sensor.
 
